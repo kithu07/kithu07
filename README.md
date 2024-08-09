@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Keerthana D S
 - 🌱 I’m currently persuing my Btech in Computer Science at CUSAT
-- 👀 I’m interested in designing and development
-- 💞️ I’m looking to collaborate on various design projects
-- 📫 Reach me at dskeerthana07@gmail.com
+- 👀 I’m interested in web development and have a flair for graphic designing!
+- 📫 Reach me at dskithu07@gmail.com
 
 
 ### ✍️ Quotes are fun, when u feel the same.
