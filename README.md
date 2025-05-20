@@ -31,7 +31,7 @@
 
 🌟 These are a few projects that reflect my best work so far. (You can find more on my potfolio/repositories!)
 
-- 🧠 **Evolution Odessey – 2d Platformer Game**: A LÖVE2D platformer game where players evolve through different stages while collecting coins and avoiding obstacles. Designed UI, implemented scoring systems, seamless navigation, and integrated immersive sound effects.
+- 🧠 **Evolution Odessey – 2d Platformer Game**: A LÖVE2D platformer game where players evolve through different stages while collecting coins and avoiding obstacles.
 - 🎨 **NinteKadha**: A personalized storytelling app that transforms your search history into an aesthetically beautiful narrative using AI-generated insights and a sleek Next.js interface.
 - 🧠 **Pixel Perfect:** An AI-powered UI testing platform featuring A/B testing, color contrast optimization, and real-time metric visualization. Built a dynamic frontend dashboard using Chart.js and integrated Gemini for intelligent UI insights.
 - 🎮 **Arcade Leaderboard Web App**: Full-stack live leaderboard built for an innovation summit in my college. Players have unique QR code that acts like their game tickets.
